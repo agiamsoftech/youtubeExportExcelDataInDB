@@ -65,6 +65,10 @@ if(isset($_POST['submit'])){
         <option value="Mustard">Mustard</option>
         <option value="Ketchup">Ketchup</option>
         <option value="Relish">Relish</option>
+        <option value="Ali">Ali</option>
+        <option value="Irfan">Irfan</option>
+        <option value="MK">MK</option>
+
     </select>
 	
 	<select class="selectpicker" multiple data-live-search="true" id="suffix_id">
